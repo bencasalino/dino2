@@ -23,5 +23,7 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
+https://calm-crag-21551.herokuapp.com/ 
 
 #### Framework of choice
+React
